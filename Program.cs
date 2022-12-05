@@ -1,0 +1,42 @@
+﻿/*
+
+using System.Net.Sockets;
+
+TcpClient client = new TcpClient("192.168.4.169", 2222);
+
+NetworkStream stream = client.GetStream();
+
+
+FileStream newFile = new FileStream("D://DownloadedNewFile.mp3", FileMode.CreateNew);
+
+FileCopyTo(newFile, stream);
+
+newFile.Close();
+
+
+void FileCopyTo(Stream Dstream , Stream Sstream)
+{
+    int i = 0;
+
+    while((i = Sstream.ReadByte())!=-1)
+    {
+          Dstream.WriteByte((byte)i);  
+    }
+}*/
+
+
+SortArray(new int[] { 2, 3, 1, 3, 4, 5, 2 });
+
+void SortArray(int[] array)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        for (int j = i+1; j < array.Length; j++)
+        {
+            if (array[i] > array[j])
+            {
+                (array[i], array[j]) = (array[j], array[i]);
+            }
+        }
+    }
+}

@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\JustProject\bin\Debug\net6.0\JustProject.exe
+C:\Users\User\source\repos\JustProject\bin\Debug\net6.0\JustProject.deps.json
+C:\Users\User\source\repos\JustProject\bin\Debug\net6.0\JustProject.runtimeconfig.json
+C:\Users\User\source\repos\JustProject\bin\Debug\net6.0\JustProject.dll
+C:\Users\User\source\repos\JustProject\bin\Debug\net6.0\JustProject.pdb
+C:\Users\User\source\repos\JustProject\obj\Debug\net6.0\JustProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\JustProject\obj\Debug\net6.0\JustProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\JustProject\obj\Debug\net6.0\JustProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\JustProject\obj\Debug\net6.0\JustProject.AssemblyInfo.cs
+C:\Users\User\source\repos\JustProject\obj\Debug\net6.0\JustProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\JustProject\obj\Debug\net6.0\JustProject.dll
+C:\Users\User\source\repos\JustProject\obj\Debug\net6.0\refint\JustProject.dll
+C:\Users\User\source\repos\JustProject\obj\Debug\net6.0\JustProject.pdb
+C:\Users\User\source\repos\JustProject\obj\Debug\net6.0\JustProject.genruntimeconfig.cache
+C:\Users\User\source\repos\JustProject\obj\Debug\net6.0\ref\JustProject.dll
