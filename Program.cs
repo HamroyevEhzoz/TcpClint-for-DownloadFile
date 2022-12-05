@@ -1,6 +1,4 @@
-﻿/*
-
-using System.Net.Sockets;
+﻿using System.Net.Sockets;
 
 TcpClient client = new TcpClient("192.168.4.169", 2222);
 
@@ -22,21 +20,6 @@ void FileCopyTo(Stream Dstream , Stream Sstream)
     {
           Dstream.WriteByte((byte)i);  
     }
-}*/
-
-
-SortArray(new int[] { 2, 3, 1, 3, 4, 5, 2 });
-
-void SortArray(int[] array)
-{
-    for (int i = 0; i < array.Length; i++)
-    {
-        for (int j = i+1; j < array.Length; j++)
-        {
-            if (array[i] > array[j])
-            {
-                (array[i], array[j]) = (array[j], array[i]);
-            }
-        }
-    }
 }
+
+
